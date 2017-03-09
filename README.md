@@ -2,4 +2,4 @@
 
 Write simple .todo files
 
-![TODO sample](sample.png)
+![TODO sample](https://github.com/blunt1337/atom-language-todo/raw/master/sample.png)
