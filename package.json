@@ -1,0 +1,16 @@
+{
+  "name": "language-todofile",
+  "version": "0.0.0",
+  "description": "TODO language for really simple TODO lists",
+  "keywords": [
+    "language",
+    "grammar",
+    "todo",
+    "list"
+  ],
+  "repository": "https://github.com/blunt1337/atom-language-todo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
